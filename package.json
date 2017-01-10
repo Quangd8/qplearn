@@ -1,0 +1,24 @@
+{
+  "name": "learning-repo",
+  "version": "1.0.0",
+  "description": "Learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quangd8/qplearn.git"
+  },
+  "keywords": [
+    "learn",
+    "node",
+    "git"
+  ],
+  "author": "Quang Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quangd8/qplearn/issues"
+  },
+  "homepage": "https://github.com/Quangd8/qplearn#readme"
+}
